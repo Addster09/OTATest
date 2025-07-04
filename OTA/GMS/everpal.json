@@ -1,11 +1,11 @@
 {
-"response": [
+    "response": [
         {
-            "datetime": 1751308073,
-            "filename": "axion-1.6-FINAL-20250630-COMMUNITY-GMS-everpal.zip",
-            "id": "5284e4542948f5a96e8a69e58fe8b753",
+            "datetime": 1751645198,
+            "filename": "axion-1.6-FINAL-20250704-COMMUNITY-GMS-everpal.zip",
+            "id": "6f079660515b5b88bdcea4e2e9ddade4",
             "romtype": "COMMUNITY",
-            "size": 1583594730,
+            "size": 1583610726,
             "url": "https://github.com/Addster09/EverpalCustomRoms/releases/download/Axion/axion-1.6-FINAL-20250630-COMMUNITY-GMS-everpal.zip",
             "version": "1.6"
         }
